@@ -1,0 +1,15 @@
+/* src/App.css */
+.dashboard {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.react-datepicker-wrapper {
+  display: block;
+  margin: 0 auto;
+  width: fit-content;
+}
